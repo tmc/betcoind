@@ -225,7 +225,7 @@ type Params struct {
 var MainNetParams = Params{
 	Name:        "mainnet",
 	Net:         wire.MainNet,
-	DefaultPort: "14494",
+	DefaultPort: "8333",
 	DNSSeeds: []DNSSeed{
 		{"0.tcp.ngrok.io", false},
 	},
