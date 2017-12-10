@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/tmc/betcoin/txscript"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 const (

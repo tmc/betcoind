@@ -13,8 +13,8 @@ import (
 
 	"github.com/tmc/betcoin/btcec"
 	"github.com/tmc/betcoin/chaincfg"
-	"github.com/btcsuite/btcutil/base58"
-	"github.com/btcsuite/btcutil/bech32"
+	"github.com/tmc/btcutil/base58"
+	"github.com/tmc/btcutil/bech32"
 	"golang.org/x/crypto/ripemd160"
 )
 

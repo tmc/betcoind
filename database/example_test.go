@@ -14,7 +14,7 @@ import (
 	"github.com/tmc/betcoin/database"
 	_ "github.com/tmc/betcoin/database/ffldb"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // This example demonstrates creating a new database.

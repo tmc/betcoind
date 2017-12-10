@@ -11,7 +11,7 @@ import (
 	"github.com/tmc/betcoin/mempool"
 	"github.com/tmc/betcoin/peer"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // PeerNotifier exposes methods to notify peers of status changes to

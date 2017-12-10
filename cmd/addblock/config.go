@@ -13,7 +13,7 @@ import (
 	"github.com/tmc/betcoin/database"
 	_ "github.com/tmc/betcoin/database/ffldb"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 	flags "github.com/jessevdk/go-flags"
 )
 

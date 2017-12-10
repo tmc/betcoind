@@ -13,7 +13,7 @@ import (
 	"github.com/tmc/betcoin/netsync"
 	"github.com/tmc/betcoin/peer"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // rpcPeer provides a peer for use with the RPC server and implements the

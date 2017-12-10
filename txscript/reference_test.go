@@ -17,7 +17,7 @@ import (
 
 	"github.com/tmc/betcoin/chaincfg/chainhash"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // scriptTestName returns a descriptive test name for the given reference script

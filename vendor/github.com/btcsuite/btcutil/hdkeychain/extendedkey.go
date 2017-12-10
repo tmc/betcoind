@@ -21,8 +21,8 @@ import (
 	"github.com/tmc/betcoin/btcec"
 	"github.com/tmc/betcoin/chaincfg"
 	"github.com/tmc/betcoin/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/tmc/btcutil"
+	"github.com/tmc/btcutil/base58"
 )
 
 const (

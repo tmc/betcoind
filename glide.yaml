@@ -1,7 +1,7 @@
 package: github.com/tmc/betcoin
 import:
 - package: github.com/btcsuite/btclog
-- package: github.com/btcsuite/btcutil
+- package: github.com/tmc/btcutil
   subpackages:
   - bloom
   - hdkeychain
@@ -33,3 +33,5 @@ import:
   version: 1679536dcc895411a9f5848d9a0250be7856448c
 - package: github.com/jrick/logrotate
 - package: github.com/btcsuite/btcwallet
+- package: github.com/btcsuite/btcrpcclient
+- package: github.com/btcsuite/golangcrypto

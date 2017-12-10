@@ -20,7 +20,7 @@ import (
 	_ "github.com/tmc/betcoin/database/ffldb"
 	"github.com/tmc/betcoin/txscript"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 const (

@@ -36,8 +36,8 @@ import (
 	"github.com/tmc/betcoin/peer"
 	"github.com/tmc/betcoin/txscript"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/tmc/btcutil"
+	"github.com/tmc/btcutil/bloom"
 )
 
 const (

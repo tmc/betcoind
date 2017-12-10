@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/tmc/betcoin/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

@@ -11,7 +11,7 @@ import (
 
 	"github.com/tmc/betcoin/chaincfg"
 	"github.com/tmc/betcoin/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis

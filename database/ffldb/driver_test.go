@@ -15,7 +15,7 @@ import (
 	"github.com/tmc/betcoin/chaincfg"
 	"github.com/tmc/betcoin/database"
 	"github.com/tmc/betcoin/database/ffldb"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // dbType is the database type name for this driver.

@@ -13,8 +13,8 @@ import (
 
 	"github.com/tmc/betcoin/chaincfg/chainhash"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/coinset"
+	"github.com/tmc/btcutil"
+	"github.com/tmc/btcutil/coinset"
 )
 
 type TestCoin struct {

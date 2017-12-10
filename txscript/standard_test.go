@@ -12,7 +12,7 @@ import (
 
 	"github.com/tmc/betcoin/chaincfg"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // mustParseShortForm parses the passed short form script and returns the

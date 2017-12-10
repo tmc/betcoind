@@ -11,7 +11,7 @@ import (
 	"github.com/tmc/betcoin/blockchain"
 	"github.com/tmc/betcoin/txscript"
 	"github.com/tmc/betcoin/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 const (

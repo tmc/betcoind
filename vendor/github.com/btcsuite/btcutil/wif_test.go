@@ -9,7 +9,7 @@ import (
 
 	"github.com/tmc/betcoin/btcec"
 	"github.com/tmc/betcoin/chaincfg"
-	. "github.com/btcsuite/btcutil"
+	. "github.com/tmc/btcutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

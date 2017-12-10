@@ -27,7 +27,7 @@ import (
 	"github.com/tmc/betcoin/database"
 	_ "github.com/tmc/betcoin/database/ffldb"
 	"github.com/tmc/betcoin/mempool"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 	"github.com/btcsuite/go-socks/socks"
 	flags "github.com/jessevdk/go-flags"
 )

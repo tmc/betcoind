@@ -9,7 +9,7 @@ package database
 
 import (
 	"github.com/tmc/betcoin/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a

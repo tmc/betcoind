@@ -11,7 +11,7 @@ import (
 	"github.com/tmc/betcoin/chaincfg"
 	"github.com/tmc/betcoin/chaincfg/chainhash"
 	"github.com/tmc/betcoin/txscript"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

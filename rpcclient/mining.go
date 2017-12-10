@@ -11,7 +11,7 @@ import (
 
 	"github.com/tmc/betcoin/btcjson"
 	"github.com/tmc/betcoin/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
+	"github.com/tmc/btcutil"
 )
 
 // FutureGenerateResult is a future promise to deliver the result of a
