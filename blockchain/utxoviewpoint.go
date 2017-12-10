@@ -7,9 +7,9 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/txscript"
+	"github.com/tmc/betcoin/chaincfg/chainhash"
+	"github.com/tmc/betcoin/database"
+	"github.com/tmc/betcoin/txscript"
 	"github.com/btcsuite/btcutil"
 )
 

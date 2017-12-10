@@ -1,9 +1,9 @@
 cpuminer
 ========
 
-[![Build Status](http://img.shields.io/travis/btcsuite/btcd.svg)](https://travis-ci.org/btcsuite/btcd)
+[![Build Status](http://img.shields.io/travis/tmc/betcoin.svg)](https://travis-ci.org/tmc/betcoin)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/btcsuite/btcd/mining/cpuminer)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/tmc/betcoin/mining/cpuminer)
 
 ## Overview
 
@@ -15,7 +15,7 @@ now.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/btcsuite/btcd/mining/cpuminer
+$ go get -u github.com/tmc/betcoin/mining/cpuminer
 ```
 
 ## License

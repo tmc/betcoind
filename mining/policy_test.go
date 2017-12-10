@@ -8,9 +8,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tmc/betcoin/blockchain"
+	"github.com/tmc/betcoin/chaincfg/chainhash"
+	"github.com/tmc/betcoin/wire"
 	"github.com/btcsuite/btcutil"
 )
 

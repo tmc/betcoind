@@ -12,11 +12,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/mining"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tmc/betcoin/blockchain"
+	"github.com/tmc/betcoin/chaincfg"
+	"github.com/tmc/betcoin/chaincfg/chainhash"
+	"github.com/tmc/betcoin/mining"
+	"github.com/tmc/betcoin/wire"
 	"github.com/btcsuite/btcutil"
 )
 
