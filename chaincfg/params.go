@@ -225,14 +225,9 @@ type Params struct {
 var MainNetParams = Params{
 	Name:        "mainnet",
 	Net:         wire.MainNet,
-	DefaultPort: "8333",
+	DefaultPort: "14494",
 	DNSSeeds: []DNSSeed{
-		{"seed.bitcoin.sipa.be", true},
-		{"dnsseed.bluematt.me", true},
-		{"dnsseed.bitcoin.dashjr.org", false},
-		{"seed.bitcoinstats.com", true},
-		{"seed.bitnodes.io", false},
-		{"seed.bitcoin.jonasschnelli.ch", true},
+		{"0.tcp.ngrok.io", false},
 	},
 
 	// Chain parameters
